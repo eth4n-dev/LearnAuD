@@ -1,5 +1,7 @@
 package graph;
 
+import graph.structures.Edge;
+
 import java.util.*;
 
 public class DFS {

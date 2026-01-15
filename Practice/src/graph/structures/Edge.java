@@ -1,4 +1,4 @@
-package graph;
+package graph.structures;
 
 public class Edge implements Comparable<Edge> {
     public int from; // New field for Kruskal

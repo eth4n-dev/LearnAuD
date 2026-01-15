@@ -10,3 +10,6 @@ out/
 
 # Log file
 *.log
+
+Graphs/src/Show
+Sorting/src/Show

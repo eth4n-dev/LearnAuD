@@ -1,4 +1,4 @@
-package graph;
+package graph.structures;
 
 public class UnionFind {
 

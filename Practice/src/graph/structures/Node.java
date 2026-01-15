@@ -1,4 +1,4 @@
-package graph;
+package graph.structures;
 
 public class Node implements Comparable<Node> {
     public int id;
