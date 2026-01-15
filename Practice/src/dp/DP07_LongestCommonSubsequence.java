@@ -1,6 +1,6 @@
 package dp;
 
-public class LCS {
+public class DP07_LongestCommonSubsequence {
 
     /**
      * Goal: Return the length of the longest subsequence common to both strings.

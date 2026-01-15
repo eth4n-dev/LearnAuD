@@ -1,6 +1,6 @@
 package dp;
 
-public class EditDistance {
+public class DP08_EditDistance {
 
     /**
      * Goal: Return the minimum number of operations required to convert word1 to word2.

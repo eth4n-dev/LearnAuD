@@ -1,6 +1,6 @@
 package dp;
 
-public class SubsetSum {
+public class DP05_SubsetSum {
 
     /**
      * Goal: Determine if there exists a subset of the array that sums up to 'target'.

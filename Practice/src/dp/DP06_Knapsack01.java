@@ -1,6 +1,6 @@
 package dp;
 
-public class Knapsack01 {
+public class DP06_Knapsack01 {
 
     /**
      * Goal: Return the MAXIMUM value you can carry given the weight capacity.

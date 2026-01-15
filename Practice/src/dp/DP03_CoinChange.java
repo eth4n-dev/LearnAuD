@@ -1,8 +1,6 @@
 package dp;
 
-import java.util.Arrays;
-
-public class CoinChange {
+public class DP03_CoinChange {
 
     /**
      * Goal: Return the FEWEST number of coins needed to make up 'amount'.

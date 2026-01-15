@@ -1,6 +1,6 @@
 package dp;
 
-public class JumpGame {
+public class DP02_JumpGame {
 
     /**
      * Goal: Determine if you can reach the last index.

@@ -1,6 +1,6 @@
 package dp;
 
-public class LongestIncreasingSubsequence {
+public class DP04_LongestIncreasingSubsequence {
 
     /**
      * Goal: Return the length of the longest strictly increasing subsequence.
