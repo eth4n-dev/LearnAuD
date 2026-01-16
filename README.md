@@ -109,7 +109,7 @@ $x$ - key, $W$ - dictionary 
 
 | Operation   | Naive Union–Find  | Optimized Union–Find (rank + path compression)    |
 |-------------|-------------------|---------------------------------------------------|
-| make-set    | O(1)              | O(1)                                              |
-| find / same | O(n)              | O(α(n)) amortized                                 |
+| make    | O(n)              | O(n)                                              |
+| find / same | O(1)              | O(α(n)) amortized                                 |
 | union       | O(n)              | O(α(n)) amortized                                 |
 | Space       | O(n)              | O(n)                                              |
